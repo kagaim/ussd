@@ -1,4 +1,4 @@
 <?php
-    echo 'Hello!';
+    echo 'Change to something else!';
 ?>
 
